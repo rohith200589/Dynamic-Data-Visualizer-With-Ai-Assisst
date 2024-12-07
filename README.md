@@ -1,5 +1,5 @@
 
-# AI-Driven Dynamic Data Visualizer 📊
+# 📊 AI-Driven Dynamic Data Visualizer 📊
 
 This project is a **web-based dynamic data visualization tool** powered by **Dash** and **Hugging Face API**. It enables users to upload datasets (CSV or Excel), analyze them, and generate interactive visualizations with intelligent insights using AI.
 
