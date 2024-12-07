@@ -41,9 +41,9 @@ pip install -r requirements.txt
 ```
 
 ### Step 4: Set Environment Variables
-Create a `.env` file in the root directory and add your Hugging Face API key:
-```env
-API_KEY=your_hugging_face_api_key
+Place your huggingface API key in the placeholder in app.py on line 21:
+```
+API_KEY="your_hugging_face_api_key"
 ```
 
 ### Step 5: Run the Application
@@ -111,6 +111,13 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### Screenshots
+![Screenshot (193)](https://github.com/user-attachments/assets/7c707d0b-6e01-4ebf-862c-1b3b8f601610)
+
 ![Screenshot (189)](https://github.com/user-attachments/assets/5aeaa617-1bc5-407f-9176-3d9bd369ba0a)
+
+![Screenshot (192)](https://github.com/user-attachments/assets/5f3fbe49-a6fe-4e6d-8a3b-c83dd282e307)
+
+![Screenshot (190)](https://github.com/user-attachments/assets/def1f3bf-4180-4031-83be-a348661b82ae)
+
 
 
