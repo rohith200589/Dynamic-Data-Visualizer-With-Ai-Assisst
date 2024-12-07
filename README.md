@@ -1,13 +1,13 @@
 
 # 📊 AI-Driven Dynamic Data Visualizer 📊
 
-This project is a **web-based dynamic data visualization tool** powered by **Dash** and **Hugging Face API**. It enables users to upload datasets (CSV or Excel), analyze them, and generate interactive visualizations with intelligent insights using AI.
+This project is a **web-based dynamic data visualization tool** powered by **Dash** and **Hugging Face API**. It enables users to upload datasets (CSV), analyze them, and generate interactive visualizations with intelligent insights using AI.
 
 ---
 
 ## Features
 
-- **File Upload**: Supports CSV and Excel file uploads.
+- **File Upload**: Supports CSV uploads.
 - **Dynamic Analysis**: Automatically analyzes datasets and suggests axes for graphs.
 - **Natural Language Query**: Processes user queries to generate AI-driven insights.
 - **Interactive Visualizations**: Provides options for line graphs, bar charts, scatter plots, and pie charts.
