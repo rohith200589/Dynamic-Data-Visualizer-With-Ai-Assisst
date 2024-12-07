@@ -1,6 +1,4 @@
-Here's a `README.md` file for your project:
 
-```markdown
 # AI-Driven Dynamic Data Visualizer 📊
 
 This project is a **web-based dynamic data visualization tool** powered by **Dash** and **Hugging Face API**. It enables users to upload datasets (CSV or Excel), analyze them, and generate interactive visualizations with intelligent insights using AI.
@@ -113,11 +111,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### Screenshots
-_Add screenshots here if needed._
-```
+![Screenshot (189)](https://github.com/user-attachments/assets/5aeaa617-1bc5-407f-9176-3d9bd369ba0a)
 
-### How to Use
-1. Replace placeholders like `your-username/your-repo-name` and `your_hugging_face_api_key` with actual values.
-2. Update the **Screenshots** section with images of the app (if available).
 
-This `README.md` is ready to be added to your GitHub repository. Let me know if you'd like adjustments!
