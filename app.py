@@ -18,7 +18,7 @@ import requests
 
 # Hugging Face API endpoint and key
 API_URL = "https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct"
-API_KEY = "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"  # Replace with your actual key
+API_KEY = ""  # Replace with your actual key
 HEADERS = {"Authorization": f"Bearer {API_KEY}"}
 
 
