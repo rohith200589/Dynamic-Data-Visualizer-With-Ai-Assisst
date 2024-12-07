@@ -1,0 +1,54 @@
+# Python related
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dash and Flask
+instance/
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# macOS specific files
+.DS_Store
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Data files
+*.sqlite3
+*.db
+*.csv
+*.xlsx
+
+# Cache files
+*.bak
+*.swp
+*.tmp
+*.temp
+*.old
+*.~*
+
+# Media files
+media/
+uploads/
+
+# Frontend assets
+assets/*.css.map
+assets/*.js.map
+
+# IDE specific
+.vscode/
+.idea/
+*.iml

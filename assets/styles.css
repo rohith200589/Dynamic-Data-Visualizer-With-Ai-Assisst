@@ -1,0 +1,9 @@
+.dash-spinner {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.dash-loading {
+    color: #ff5722;
+    font-size: 1.5em;
+}
